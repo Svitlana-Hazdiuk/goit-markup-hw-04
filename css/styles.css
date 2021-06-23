@@ -195,6 +195,8 @@ header {
 .hero {
   padding-top: 200px;
   padding-bottom: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
 
   background-color: var(--hero-background);
   background-image: linear-gradient(
